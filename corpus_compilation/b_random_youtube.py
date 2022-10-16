@@ -1,3 +1,10 @@
+'''
+This script downloads metadata for 500-600 YouTube videos 
+It uses a random 3-word search term mabe from the most frequent 200 words in the BNC
+* you need to have the file 'bnc_seeds.py' in the same folder for it to work *
+There is a limit on how much data can be extracted from the YouTube API using one API key
+'''
+
 from apiclient.discovery import build
 from bnc_seeds import bnc_200_words
 import pandas as pd
