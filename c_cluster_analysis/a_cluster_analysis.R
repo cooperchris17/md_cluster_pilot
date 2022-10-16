@@ -2,7 +2,7 @@
 
 library(dendextend)
 
-yt <- read.csv('random_bnc200_dim.csv', row.names = 1)
+yt <- read.csv('b_random_bnc200_dim.csv', row.names = 1)
 head(yt)
 tail(yt)
 
