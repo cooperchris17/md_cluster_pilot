@@ -5,6 +5,8 @@ date: "2022-12-04"
 output: html_document
 ---
 
+This is the code for the R Markdown file, an html version (with the output) can be viewed here: https://rpubs.com/cooperchris17/978788
+
 The following page was used as a basis for how to add coloured labels to individual texts 
 
 https://stackoverflow.com/questions/27485549/how-to-colour-the-labels-of-a-dendrogram-by-an-additional-factor-variable-in-r
