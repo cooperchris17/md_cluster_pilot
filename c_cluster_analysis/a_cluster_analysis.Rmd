@@ -1,6 +1,6 @@
 ---
 title: "Cluster Analysis Script"
-author: "Chris Cooper"
+author: "AUTHOR"
 date: "2022-12-04"
 output: html_document
 ---
